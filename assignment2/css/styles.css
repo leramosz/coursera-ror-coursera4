@@ -5,6 +5,8 @@
 
 body {
   font-family: Verdana, Helvetica;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 
 h1 {
@@ -25,12 +27,12 @@ h3 {
 .menu-item {
   border: 2px solid black;
   background-color: #A52A2A;
-  width: 90%;
-  height: 170px;
-  margin-right: auto;
-  margin-left: auto;
   color: white;
-  margin-bottom: 15px;
+  /*width: 90%;*/
+  height: 170px;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 20px;
 }
 
 .menu-item-chicken {
